@@ -55,7 +55,7 @@ function App() {
 
   return (
     <div className="app-container">
-      <h1>Buscador de Imágenes Pexels</h1>
+      <h1>uso de github + versel curso DevOps </h1>
 
       <form onSubmit={handleSubmit} className="search-form">
         <input
